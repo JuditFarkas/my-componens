@@ -1,0 +1,23 @@
+ /*flat button style*/
+* {
+  box-sizing: border-box;
+}
+.button-nav {
+  display: inline-block;
+  color: black;
+  font-size: 1rem;
+  text-decoration: none;
+  font-family: arial; sans-serif;
+  text-align: center;
+  line-height: 1.5;
+  padding: .8rem 1rem;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  white-space: nowrap;
+  vertical-align: middle;
+  }
+.button-nav:hover {
+  background-color: black;
+  color: white;
+  transition: background-color .15s ease-in-out;
+}
