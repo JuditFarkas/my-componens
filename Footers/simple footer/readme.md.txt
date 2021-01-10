@@ -1,0 +1,1 @@
+Simple footer with back to top button
